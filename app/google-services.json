@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "461795594268",
+    "firebase_url": "https://calculatorab-d4a97.firebaseio.com",
+    "project_id": "calculatorab-d4a97",
+    "storage_bucket": "calculatorab-d4a97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:461795594268:android:67531def5ea9271f17cfd9",
+        "android_client_info": {
+          "package_name": "com.example.calculatorab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "461795594268-jdb6jnu7loghlijjch2g13u20og4mugq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDq23GwjIzR9kbyzJzSwlvRhcm6lJzf-eQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "461795594268-jdb6jnu7loghlijjch2g13u20og4mugq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
